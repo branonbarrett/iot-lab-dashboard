@@ -1,0 +1,23 @@
+{
+  "name": "iot-lab-dashboard",
+  "version": "1.0.0",
+  "description": "IoT labs dashboard app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branonbarrett/iot-lab-dashboard.git"
+  },
+  "keywords": [
+    "IoT",
+    "React"
+  ],
+  "author": "Branon Barrett <branonbarrett@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/branonbarrett/iot-lab-dashboard/issues"
+  },
+  "homepage": "https://github.com/branonbarrett/iot-lab-dashboard#readme"
+}
